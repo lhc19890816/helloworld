@@ -1,0 +1,21 @@
+{
+  "name": "helloworld-suraj",
+  "version": "1.0.0",
+  "description": "first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajsutar7/helloworld.git"
+   
+
+  },
+  "author": "SURAJ SUTAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajsutar7/helloworld/issues"
+  },
+  "homepage": "https://github.com/surajsutar7/helloworld#readme"
+}
